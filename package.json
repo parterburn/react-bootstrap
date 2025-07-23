@@ -68,10 +68,10 @@
     "glob": "^7.0.3",
     "history": "^1.17.0",
     "http-proxy": "^1.13.2",
-    "ip": "^1.1.2",
+    "ip": "^2.0.1",
     "isparta-loader": "^1.0.0",
     "json-loader": "^0.5.4",
-    "karma": "^0.13.22",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^0.2.3",
     "karma-cli": "^0.1.2",
     "karma-coverage": "^0.5.5",
@@ -107,7 +107,7 @@
     "style-loader": "^0.13.1",
     "transform-loader": "^0.2.3",
     "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "^5.2.2",
     "yargs": "^4.3.2"
   },
   "dependencies": {
